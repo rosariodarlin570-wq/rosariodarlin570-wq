@@ -77,7 +77,7 @@ h1{
 </div>
 
 <script>
-const startDate = new Date("2025-02-21T00:00:00"); // CAMBIA ESTA FECHA
+const startDate = new Date("2026-01-27T00:00:00"); // CAMBIA ESTA FECHA
 
 function updateCounter(){
     const now = new Date();
